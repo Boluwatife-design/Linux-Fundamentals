@@ -69,6 +69,8 @@ Editing config files and code is a daily task, so I looked at the common options
 - **Gedit / Kate** — GUI text editors for desktop distros.
 - **VS Code** — modern, extension-rich code editor, widely used for actual development work, runs on Linux natively.
 
+<img width="1258" height="781" alt="image" src="https://github.com/user-attachments/assets/89d28ff6-7fda-402c-9100-a5ba4f1c31bc" />
+
 **Key takeaway:** Vim is worth learning even minimally because it's *always* available on remote servers where you may have no GUI — you can't always install VS Code on a production server.
 
 ```bash
@@ -80,6 +82,8 @@ vim filename.txt      # open/create file in Vim (press i to insert, Esc then :wq
 ## 4. Running Linux in a Virtual Machine
 
 Virtualization lets you run a full Linux OS *inside* your existing OS (Windows/macOS), without dual-booting or dedicating a physical machine.
+
+<img width="777" height="536" alt="image" src="https://github.com/user-attachments/assets/c9708815-eb3f-4412-bbf2-f7e3d7048869" />
 
 **Tools used/explored:**
 - **VirtualBox** (Oracle, free) — most common for learning/testing.
@@ -222,6 +226,7 @@ sudo systemctl start mariadb
 ---
 
 ## 10. Basic Commands Cheat Sheet
+<img width="1262" height="793" alt="image" src="https://github.com/user-attachments/assets/657a2c0f-b2c6-44bd-b3a9-74b2227a814f" />
 
 ```bash
 # Navigation
